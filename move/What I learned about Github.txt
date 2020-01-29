@@ -4,3 +4,7 @@
 4. How to restore the changes after adding the file to staging area
 5. Gitting Historically - git log --oneline --decorate --graph --color
 6. Removing/deleting file after commiting 
+7. Moving file to another folder
+8. Ignoring files
+9. Settingup SSH Authentication
+10. Git pull and git push
