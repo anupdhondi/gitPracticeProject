@@ -2,4 +2,4 @@
 2. Initialize with new project or existing project - git init git-demo
 3. First Add and Commit
 4. How to restore the changes after adding the file to staging area
- 
+5. Gitting Historically - git log --oneline --decorate --graph --color
