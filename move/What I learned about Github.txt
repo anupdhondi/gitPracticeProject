@@ -8,3 +8,4 @@
 8. Ignoring files
 9. Settingup SSH Authentication
 10. Git pull and git push
+11. Changing on remote location n checking if it got reflected in local using pull command
