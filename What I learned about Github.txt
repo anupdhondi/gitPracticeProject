@@ -1,2 +1,3 @@
 1. Git Configuration - git config --global user.email "anupdhondi5@gmail.com" 
 2. Initialize with new project or existing project - git init git-demo
+3. First Add and Commit
